@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Majorelle Blue",
-		"author": "Unknown",
+		"author": "Jesus Ruiz",
 		"url": "https://drive.google.com/uc?id=1o5pvZwZs5LgFxn3Pd6SXtrgqgZ0ktkPR",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
@@ -101,5 +101,47 @@
 		"url": "https://drive.google.com/uc?id=1VV7JXeN57ANl1Vs6U1Vp9TTa-1SrZKhW",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
-	}
+	},{
+		"name": "Red Mable leaves",
+		"author": "Annie Spratt Unsplash",
+		"url": "https://drive.google.com/uc?id=107EghbiCu02F5j0zZ9y2rQZ09x7mxX_P",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},{
+		"name": "Abstract Wall",
+		"author": "Daniel Olah Unsplash",
+		"url": "https://drive.google.com/uc?id=1Gwi5ZJvrHSN2-sNqbwXUeH17zngUPaLW",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},{
+		"name": "Green linear leaf",
+		"author": "Mona Eendra Unsplash",
+		"url": "https://drive.google.com/uc?id=1bIS_6Xu6Zh08woPTArV3yA0rxZtDAPbI",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},{
+		"name": "Abstract Painting photo",
+		"author": "Jon Tyson Unsplash",
+		"url": "https://drive.google.com/uc?id=1Rlr_CRhfnf8jA4-WeDdemrN2Ax3jjW2o",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},{
+		"name": "Simple material wallpaper",
+		"author": "YoG",
+		"url": "https://drive.google.com/uc?id=16GC_qQPiUTOCK9i1aAp4rLB3K9xPtNIA/",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},{
+		"name": "Blue Blobs",
+		"author": "YoG",
+		"url": "https://drive.google.com/uc?id=12W5ORhf3LtWIqh8MuB1XmfF4JRoqZw8g",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},{
+		"name": "Pattern Wall",
+		"author": "YoG",
+		"url": "https://drive.google.com/uc?id=1-L2DpUYw0AuGrhHwnoXarK4kFbR-YpS8",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}	
 ]
