@@ -1,239 +1,270 @@
-[
-	{
+[{
 		"name": "Majorelle Blue",
 		"author": "Jesus Ruiz",
 		"url": "https://drive.google.com/uc?id=1o5pvZwZs5LgFxn3Pd6SXtrgqgZ0ktkPR",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike",
 		"thumbnail": "https://drive.google.com/uc?id=1bwwG_GfDvv5yJbDTGVBeqj2wT-Ho0KHy"
-	},{
+	}, {
 		"name": "iOS Red Dark",
 		"author": "Apple",
 		"url": "https://drive.google.com/uc?id=1f3X87EHhp-IyTzkpuw95V3glKmb0l1N2",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike",
 		"thumbnail": "https://drive.google.com/uc?id=1Ns7-f_bs2E-Yhg9h74YFAaQEwKwyrPds"
-		
-	},{
+
+	}, {
 		"name": "Fractal Art 1",
 		"author": "Jesus Ruiz",
 		"url": "https://drive.google.com/uc?id=1mi8eLCnsBdeppfhYRGywteEUd674dU0W",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike",
 		"thumbnail": "https://drive.google.com/uc?id=1PlwO6oqdUYeWLMnAAf04M2FRuevQJIaO"
-	},{
+	}, {
 		"name": "Fractal Art 2",
 		"author": "Jesus Ruiz",
 		"url": "https://drive.google.com/uc?id=1VIXgNI6kUvgpTxetYW5WLFXetEVUqNjl",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike",
 		"thumbnail": "https://drive.google.com/uc?id=1rpre_ufLWRbHXmX3BBPhmFrugnk7aqSU"
-	},{
+	}, {
 		"name": "Fractal Art 3",
 		"author": "YoG",
 		"url": "https://drive.google.com/uc?id=1p-m_K5IsxOx_zNAleTncEKm3RSwkuaS9",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike",
 		"thumbnail": "https://drive.google.com/uc?id=1WmPdClTnMhsNBEepRwxyszL3SbOJc7jy"
-	},{
+	}, {
 		"name": "Dark Planet",
 		"author": "Daniel Olah Unsplash",
 		"url": "https://drive.google.com/uc?id=1L2UuZ7pMsBipgsEqy70UPKl7kVxjWJS-",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike",
 		"thumbnail": "https://drive.google.com/uc?id=1eJLn7yx0EDZIXNM6Z6GrOaCC6xUQv1Ds"
-	},{
+	}, {
 		"name": "Biarritz, France",
 		"author": "Thibault penin Unsplash",
 		"url": "https://drive.google.com/uc?id=1laqYz6azoD5BGN_q1bbiHFOzSnFT8vtd",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1wzqOJQypavu0kccP7v3dso04-qjzUFwe"
+	}, {
 		"name": "Pacific Beach",
 		"author": "Jason leem Unsplash",
 		"url": "https://drive.google.com/uc?id=1ABqlJ_IcTjYLcIFaR7vjvxkzWHwIDCgh",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1lhIcgjb3aMh63zcyADDSwZUnQvmqESRU"
+	}, {
 		"name": "White Cibbu shelf",
 		"author": "Baby QB Unsplash",
 		"url": "https://drive.google.com/uc?id=1Y3JCXtFEndx5gM7cFwUqs-zHOV-m_158",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1ZLolzBIvElPn_2Lg0rCjYinut3xkKwIF"
+	}, {
 		"name": "Wooden Fence Close Up",
 		"author": "Carolina PImenta Unsplash",
 		"url": "https://drive.google.com/uc?id=1Qxb3V-jz51n7ym8V9XOrI6Wud_ClqkIj",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1zYDCZlNWZO6ivgmGXpEys-j_-LrhGa5X"
+	}, {
 		"name": "Sea waves",
 		"author": "Unknown",
 		"url": "https://drive.google.com/uc?id=1x44qM9lzKSO8w-SxxzXh3OupW74nsleU",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1bErUgWyn3YKxMgZlMN-g8vbRiQcOkMMs"
+	}, {
 		"name": "Sand",
 		"author": "adrien Olichon",
 		"url": "https://drive.google.com/uc?id=161AKJ1ZyORBAkyzswGGYhZZUUyWYCfRu",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1FBQnuc4hGFQfMnYZLBVXboSKNizLjyUy"
+	}, {
 		"name": "Graphiti",
 		"author": "JFL Unsplash",
 		"url": "https://drive.google.com/uc?id=1BLWI5Y9sO2odhbbRE6BGJdFiWmtPPyNw",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1eXbKTnfLLyqcGdwF4ag5Ym_S7KY92RYI"
+	}, {
 		"name": "Electro Parade from Montreal,",
 		"author": "Camille Couvez Unsplash",
 		"url": "https://drive.google.com/uc?id=1vXCh6Y5vW0VOuU4bry3W2C-mUT0ygU2p",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{ 
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1d2LkoOEivnOsGUaM2HSYnLCrl752B9BV"
+	}, {
 		"name": "hulhule Island",
 		"author": "Saffu Unsplash",
 		"url": "https://drive.google.com/uc?id=1vtCW2rlg2rIO_s7qIeEiMK5nKNWrWNRs",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1MCQzeFyIkjT74SjSr2WnjpH1Xip1A7fP"
+	}, {
 		"name": "Sea Wave",
 		"author": "YoG",
 		"url": "https://drive.google.com/uc?id=1XCCLRXhBDAOI17DWaFjLrkWz-r5ZSzqB",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1JwG4_JHQ7bw8i1S5Q2pUXz5gM8b_SEKp"
+	}, {
 		"name": "Drops on Leafs",
 		"author": "YoG",
 		"url": "https://drive.google.com/uc?id=1VV7JXeN57ANl1Vs6U1Vp9TTa-1SrZKhW",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1S5C4ukX_N4C1_irzXs0ICICSvxm5X13I"
+	}, {
 		"name": "Red Mable leaves",
 		"author": "Annie Spratt Unsplash",
 		"url": "https://drive.google.com/uc?id=107EghbiCu02F5j0zZ9y2rQZ09x7mxX_P",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1cRc8LotwGU4Y51tqlfSUsmFGbEvMYSKg"
+	}, {
 		"name": "Abstract Wall",
 		"author": "Daniel Olah Unsplash",
 		"url": "https://drive.google.com/uc?id=1Gwi5ZJvrHSN2-sNqbwXUeH17zngUPaLW",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1GDs7aD5mwS2egaYFr4QlDNvofgyaPNaD"
+	}, {
 		"name": "Green linear leaf",
 		"author": "Mona Eendra Unsplash",
 		"url": "https://drive.google.com/uc?id=1bIS_6Xu6Zh08woPTArV3yA0rxZtDAPbI",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1-TPR7klCEYzHX6Ik7tp5cCZtlLnLkWYh"
+	}, {
 		"name": "Abstract Painting photo",
 		"author": "Jon Tyson Unsplash",
 		"url": "https://drive.google.com/uc?id=1Rlr_CRhfnf8jA4-WeDdemrN2Ax3jjW2o",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1rMLYNayaJfOm3wWakJvySv30I7cai_Mp"
+	}, {
 		"name": "Simple material wallpaper",
 		"author": "YoG",
 		"url": "https://drive.google.com/uc?id=16GC_qQPiUTOCK9i1aAp4rLB3K9xPtNIA",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1yvhFWHl1eyL21IQhPwFFikgIf7T35S_1"
+	}, {
 		"name": "Blue Blobs",
 		"author": "YoG",
 		"url": "https://drive.google.com/uc?id=12W5ORhf3LtWIqh8MuB1XmfF4JRoqZw8g",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1ELg3ecTltIyX-Ls6o6SOZUo34HPLYFsB"
+	}, {
 		"name": "Pattern Wall",
 		"author": "YoG",
 		"url": "https://drive.google.com/uc?id=1-L2DpUYw0AuGrhHwnoXarK4kFbR-YpS8",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=19Idwp4s3LNhYYLmwSqLBx44IiATy4s1U"
+	}, {
 		"name": "Ruiz galaxy 1 ",
 		"author": "Jesus ruiz",
 		"url": "https://drive.google.com/uc?id=131cC5iWJR6JdL1GzrEt0dRfyQJzgr9eB",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1I20lEcZIdF-lAdAFV0W6HpxzuGzkvhJe"
+	}, {
 		"name": "Ruiz galaxy 2 ",
 		"author": "Jesus ruiz",
 		"url": "https://drive.google.com/uc?id=14X04T1byzCvzip2u-R8hZYQkCJNVdYzY",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}	,{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1bkVzJl2S77FCUJ-uAHQVvhs43VvWVNVv"
+	}, {
 		"name": "Seaview",
 		"author": "UNKOWN",
 		"url": "https://drive.google.com/uc?id=1MF2yb69r3hr69ZLWY5sLcidkmlzMp1Uz",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}	,{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1JHlCRilhkgHf7_7dcs9ReHG_UbdYbnNK"
+	}, {
 		"name": "grey clouds view",
 		"author": "Marla Prusik unsplash",
 		"url": "https://drive.google.com/uc?id=1nrjpoZYKvd70x8b5nnhcwrNAUaAbzfJ9",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}	,{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1yk9g5MWQP1PRyDuNAOQ-7QM5WEaljevO"
+	}, {
 		"name": "colorful buildings",
 		"author": "unsplash",
 		"url": "https://drive.google.com/uc?id=11nqsaXCuvSJKA9r5P-uWzF0BAa75dW9S",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}	,{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1AQts7UhoUezHIzPg6Ff_Hj0u44vmesOY"
+	}, {
 		"name": "Grey Concrete building",
 		"author": "Nathan Dumlao Unsplash",
 		"url": "https://drive.google.com/uc?id=1lDnih83wDzxudgDJOPOsxAFsSrkSBHSu",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}	,{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1Uy-de29nMx-qB4fZPm40Znu03q07Z8bw"
+	}, {
 		"name": "Tokyo japan night view ",
 		"author": "Pawel Nolbert unsplash",
 		"url": "https://drive.google.com/uc?id=1yTsvIlzYf2DmBjSfsgAoBResG7u4DCZt",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}	,{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1B6e9ZWWiTeT56UizoIgdI93QLGvdh3Oe"
+	}, {
 		"name": "Aurora",
 		"author": "UNKNOWN",
 		"url": "https://drive.google.com/uc?id=1K_pDTrOjJ-fp0BZxya1JozNBXNix4KHp",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1mpunEs46ajDUru-TIk_YB-jp0rlOkuPv"
+	}, {
 		"name": "Abstract Painting",
 		"author": "Steve Johnson - Pexels",
 		"url": "https://drive.google.com/uc?id=1mei-CHXAQmUg93SnnMpkr8AI2roai7KH",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1G8Pne__Q1aEAlHxUe7z4SAnK5HJAU_5t"
+	}, {
 		"name": "Sunset",
 		"author": "Bob Ward - Pexels",
 		"url": "https://drive.google.com/uc?id=1zu7izZdIwnhMULP1azsorOqrOWklC0HY",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1ItmxuNL0Ix8jMnY261PKi3Dw3RZ4AzaX"
+	}, {
 		"name": "Brown Wooden windows Wallpaper",
 		"author": "Snapwire - Pexels",
 		"url": "https://drive.google.com/uc?id=1EZJx9JtLk-yD1SViF3hSKlZXN_2BK9RP",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1RRsSbUws7IGpxxtsL6APHJkdYP6nW_6A"
+	}, {
 		"name": "White and black concrete building",
 		"author": "David Underland - Pexels",
 		"url": "https://drive.google.com/uc?id=1MzyiTuFTToCR8sKSUQfeGqMD9-NFA3TE",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1o77IQRENG6EmZOSj1GSVQ_Hi2_5W_shx"
+	}, {
 		"name": "Colored pencils",
 		"author": "Ann H - Pexels",
 		"url": "https://drive.google.com/uc?id=16MCGRyZuPI9Jk0QaDxjzDgK2lTinZAHf",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},{
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1po_w5iLASxAi9OsGg4ftxnwDHY1dvRyl"
+	}, {
 		"name": "Abstract Painting",
 		"author": "Dids - Pexels",
 		"url": "https://drive.google.com/uc?id=1BxY4NgrfMmtDuyL9oGqJrzAiYC2n9P6Q",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}					
-	
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://drive.google.com/uc?id=1tmQHHVu6V7KJFPWZIHmvmDWhyya6gCj8"
+	}
+
 ]
