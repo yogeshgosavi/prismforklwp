@@ -312,25 +312,29 @@
 		"author": "Matt newman Pexels",
 		"url": "https://raw.githubusercontent.com/yogeshgosavi/prismforklwp/master/wallpaper/wall54.png",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://raw.githubusercontent.com/yogeshgosavi/prismforklwp/master/thumb/thumb-095.png"
 	},{
 		"name": "KeyBoard",
 		"author": "Phil Desforges",
 		"url": "https://raw.githubusercontent.com/yogeshgosavi/prismforklwp/master/wallpaper/wall23.jpg",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://raw.githubusercontent.com/yogeshgosavi/prismforklwp/master/thumb/thumb-094.png"
 	},{
 		"name": "Pattern wall 1",
-		"author": "pawel czerwinski unsplash",
-		"url": "https://raw.githubusercontent.com/yogeshgosavi/prismforklwp/master/wallpaper/wall17alt.jpg",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/prismforklwp/master/wallpaper/wall17alt.png",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://raw.githubusercontent.com/yogeshgosavi/prismforklwp/master/thumb/thumb-093.png"
 	},{
 		"name": "Pattern wall 2",
-		"author": "pawel czerwinski unsplash",
-		"url": "https://raw.githubusercontent.com/yogeshgosavi/prismforklwp/master/wallpaper/wall17alt1.jpg",
+		"author": "YOG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/prismforklwp/master/wallpaper/wall17alt1.png",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"copyright": "CreativeCommons Attribution-ShareALike",
+		"thumbnail": "https://raw.githubusercontent.com/yogeshgosavi/prismforklwp/master/thumb/thumb-092.png"
 	}
 
 ]
